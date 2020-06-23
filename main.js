@@ -3,4 +3,5 @@
     var y = 20;
     var answer = x + y;
     console.log(answer);
+    console.log("stuff");
 })();
